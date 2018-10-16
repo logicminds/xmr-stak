@@ -1,4 +1,5 @@
 bin/
+cuda_9.0.176_384.81_linux-run
 obj/
 build/
 xmr-stak-cpu.layout
